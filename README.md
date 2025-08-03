@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Computer & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Winebald250&label=Profile%20views&color=0e75b6&style=flat" alt="Winebald" />
+  <img src="https://komarev.com/ghpvc/?username=banituze&label=Profile%20views&color=0e75b6&style=flat" alt="Winebald" />
 </p>
 
 <p align="center">
@@ -50,12 +50,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Winebald250&theme=dark&show_icons=true&locale=en" alt="Winebald stats" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Winebald250&theme=dark" alt="Winebald streak" />
-</p>
