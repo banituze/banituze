@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/"> 
+<a href="https://github.com/banituze"> 
   <img src="https://github-profile-trophy.vercel.app/?username=banituze&theme=matrix&title=-MultiLanguage" alt="GitHub Trophies" /> 
 </a>
 </p>
