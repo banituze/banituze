@@ -28,7 +28,7 @@
 
 ### Tech Stack
 
-- **Backend:** Python (Django), PHP  
+- **Backend:** Python (Django), PHP (Laravel)
 - **Databases:** MySQL (SQL), Query Optimization  
 - **Frontend:** HTML, CSS, JavaScript  
 - **DevOps & Tools:** Git, GitHub, Docker, CI/CD, Bash, Linux
