@@ -2,12 +2,12 @@
 <h3 align="center">An aspiring Computer & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Winebald250&label=Profile%20views&color=0e75b6&style=flat" alt="Winebald" />
+  <img src="https://komarev.com/ghpvc/?username=banituze&label=Profile%20views&color=0e75b6&style=flat" alt="banituze" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Winebald250&theme=matrix&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=banituze&theme=matrix&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -21,14 +21,14 @@
 
 - Currently learning **AR/VR**  
 - Ask me about **Backend Development**  
-- Reach me at **info@winebald.tech**  
+- Reach me at <a href="https://g.dev/winebald" target="_blank"><strong>g.dev/winebald</strong></a>  
 - Fun fact: **"Less ego, more soul" is my life mantra.**
 
 ---
 
 ### Tech Stack
 
-- **Backend:** Python (Django), PHP (Laravel) 
+- **Backend:** Python (Django), PHP  
 - **Databases:** MySQL (SQL), Query Optimization  
 - **Frontend:** HTML, CSS, JavaScript  
 - **DevOps & Tools:** Git, GitHub, Docker, CI/CD, Bash, Linux
@@ -48,6 +48,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Winebald250&theme=dark&show_icons=true&locale=en" alt="Winebald stats" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Winebald250&theme=dark" alt="Winebald streak" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=banituze&theme=dark&show_icons=true&locale=en" alt="banituze stats" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=banituze&theme=dark" alt="banituze streak" />
 </p>
