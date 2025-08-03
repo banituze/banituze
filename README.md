@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Winebald250&theme=matrix&no-frame=true&exclude=Multilanguage" alt="GitHub Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Winebald250&theme=matrix&no-frame=true&exclude=MultiLanguage" alt="GitHub Trophies" />
 </a>
 </p>
 
