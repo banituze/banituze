@@ -28,8 +28,10 @@
 
 ### Tech Stack
 
-- **Frontend:** Django, Tailwind CSS  
-- **Backend:** Python, PHP, Laravel, MySQL
+- **Backend:** Python (Django), PHP  
+- **Databases:** MySQL (SQL), Query Optimization  
+- **Frontend:** HTML, CSS, JavaScript  
+- **DevOps & Tools:** Git, GitHub, Docker, CI/CD, Bash, Linux
 
 ---
 
