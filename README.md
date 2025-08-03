@@ -21,7 +21,7 @@
 
 - Currently learning **AR/VR**  
 - Ask me about **Backend Development**  
-- Reach me at **g.dev/winebald**  
+- Reach me at <a href="https://g.dev/winebald" target="_blank"><strong>g.dev/winebald</strong></a>  
 - Fun fact: **"Less ego, more soul" is my life mantra.**
 
 ---
