@@ -1,11 +1,3 @@
-<!-- Font Injection for GitHub README -->
-<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<style>
-  * {
-    font-family: 'Lexend', sans-serif;
-  }
-</style>
-
 <h1 align="center">Hi, I'm Winebald</h1>
 <h3 align="center">An aspiring Computer & Software Engineer</h3>
 
@@ -27,9 +19,9 @@
 
 ---
 
-- Currently learning **AR/VR**
-- Ask me about **Backend Development**
-- Reach me at **g.dev/winebald**
+- Currently learning **AR/VR**  
+- Ask me about **Backend Development**  
+- Reach me at **g.dev/winebald**  
 - Fun fact: **"Less ego, more soul" is my life mantra.**
 
 ---
