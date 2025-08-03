@@ -2,12 +2,12 @@
 <h3 align="center">An aspiring computer & software engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=banituze&label=Profile%20views&color=0e75b6&style=flat" alt="hubertit" />
+  <img src="https://komarev.com/ghpvc/?username=banituze&label=Profile%20views&color=0e75b6&style=flat" alt="banituze" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=banituze&theme=matrix&no-frame=true" alt="hubertit trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=banituze&theme=matrix&no-frame=true" alt="banituze trophies" />
   </a>
 </p>
 
