@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Winebald 👋</h1>
+<h1 align="center">Hi, I'm Winebald</h1>
 <h3 align="center">An aspiring Computer & Software Engineer</h3>
 
 <p align="center">
@@ -19,21 +19,21 @@
 
 ---
 
-- 🌱 Currently learning **AR/VR**
-- 💬 Ask me about **Backend Development**
-- 📫 Reach me at **info@winebald.tech**
-- 🧠 Fun fact: **I'm an Introvert**
+- Currently learning **AR/VR**
+- Ask me about **Backend Development**
+- Reach me at **info@winebald.tech**
+- Fun fact: **I'm an Introvert**
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 - **Frontend:** Tailwind CSS, Django  
 - **Backend:** Python, PHP, MySQL, Laravel
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=banituze&theme=dark&show_icons=true&locale=en" alt="banituze stats" />
