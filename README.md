@@ -22,14 +22,14 @@
 - Currently learning **AR/VR**
 - Ask me about **Backend Development**
 - Reach me at **info@winebald.tech**
-- Fun fact: **I'm an Introvert**
+- Fun fact: **"Less ego, more soul" is my life mantra.**
 
 ---
 
 ### Tech Stack
 
-- **Frontend:** Tailwind CSS, Django  
-- **Backend:** Python, PHP, MySQL, Laravel
+- **Frontend:** Django,Tailwind CSS  
+- **Backend:** Python, PHP, Laravel, MySQL
 
 ---
 
