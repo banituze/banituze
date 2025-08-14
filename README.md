@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Winebald</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=banituze&label=Profile%20views&color=0e75b6&style=flat" alt="Winebald" />
