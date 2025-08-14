@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Winebald</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Computer+&+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
