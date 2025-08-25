@@ -33,10 +33,10 @@
 
 ### Tech Stack
 
-- **Backend:** Python (Django)
-- **Databases:** MySQL (SQL) 
-- **Frontend:** HTML, Tailwind CSS, JavaScript  
-- **DevOps & Tools:** GitHub, Linux, Bash
+- **Backend :** Python (Django)
+- **Databases :** MySQL (SQL) 
+- **Frontend :** HTML, Tailwind CSS, JavaScript  
+- **DevOps & Tools :** GitHub, Linux, Bash
 
 ---
 
