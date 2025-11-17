@@ -24,7 +24,7 @@
 
 ---
 
-- Currently learning **C#**  
+- Currently learning **React Native**  
 - Ask me about **Software Development**  
 - Reach me at **info@winebald.tech**  
 - Fun fact : **"Less ego, more soul" is my life mantra**
