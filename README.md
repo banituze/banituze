@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/banituze">
-  <img src="https://github-trophies.vercel.app/?username=banituze&theme=matrix&title=Commit,Star,Reviews,PullRequest,Repositories,Organizations,Profile&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=banituze&theme=matrix&title=Commit,Star,PullRequest,Repositories,Experience,Organizations,Profile&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </a>
 </p>
 
