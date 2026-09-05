@@ -25,7 +25,7 @@
 ---
 
 - Currently learning **ML**  
-- Ask me about **Software Development**  
+- Ask me about **Software Engineering**  
 - Reach me at **info@winebald.tech**  
 - Fun fact : **"Less ego, more soul" is my life mantra**
 
@@ -33,10 +33,9 @@
 
 ### Tech Stack
 
-- **Backend :** Python (Django)
-- **Databases :** SQL (MySQL) 
-- **Frontend :** HTML, Tailwind CSS, JavaScript  
-- **DevOps & Tools :** GitHub, Linux, Bash
+- **Backend :** C#
+- **Databases :** PostgreSQL
+- **Frontend :** Angular
 
 ---
 
