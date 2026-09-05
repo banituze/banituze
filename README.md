@@ -22,22 +22,16 @@
   </a>
 </p>
 
----
-
 - Currently learning **ML**  
 - Ask me about **Software Engineering**  
 - Reach me at **info@winebald.tech**  
 - Fun fact : **"Less ego, more soul" is my life mantra**
-
----
 
 ### Tech Stack
 
 - **Backend :** C#
 - **Databases :** PostgreSQL
 - **Frontend :** Angular
-
----
 
 ### Skills
 
