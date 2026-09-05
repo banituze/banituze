@@ -29,9 +29,9 @@
 
 ### Tech Stack
 
-* **Backend:** C#, Python
-* **Databases:** PostgreSQL, SQLite
-* **Frontend:** Angular, SCSS
+* **Backend :** C#, Python
+* **Databases :** PostgreSQL, SQLite
+* **Frontend :** Angular, SCSS
 
 ### Skills
 
